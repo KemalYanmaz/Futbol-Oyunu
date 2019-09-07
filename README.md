@@ -1,2 +1,2 @@
 # Futbol-Oyunu
-Football Game
+Football Game which select teams and actions in the match randomly.
